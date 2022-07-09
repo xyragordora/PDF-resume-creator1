@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\resume.exe.config
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\resume.exe
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\resume.pdb
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\itextsharp.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\itextsharp.xml
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.Form1.resources
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.exe
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\resume\obj\Debug\resume.pdb
